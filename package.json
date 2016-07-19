@@ -1,0 +1,33 @@
+{
+  "name": "serverless-telegram-plugin",
+  "version": "0.1.0",
+  "engines": {
+    "node": ">=4.0"
+  },
+  "description": "Serverless plugin for telegram bot",
+  "author": "Ben Lau",
+  "license": "APACHE-2.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/"
+  },
+  "keywords": [
+    "serverless framework plugin",
+    "serverless applications",
+    "serverless plugins",
+    "api gateway",
+    "lambda",
+    "aws",
+    "aws lambda",
+    "amazon",
+    "amazon web services",
+    "serverless.com",
+    "telegram"
+  ],
+  "main": "index.js",
+  "bin": {},
+  "dependencies": {
+    "bluebird": "^3.0.6",
+    "request-promise": "^3.0.0"
+  }
+}
